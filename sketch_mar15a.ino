@@ -1,5 +1,3 @@
-//Code Credit to orginal Author:  https://www.youtube.com/ElectronicsTechHaIs
-//This code created by Electronics Tech channel
 //*******************************libraries********************************
 #include <SPI.h>
 #include <Wire.h>
